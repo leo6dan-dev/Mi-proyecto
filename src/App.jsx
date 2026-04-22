@@ -105,10 +105,9 @@ export default function App() {
       marginTop: "20px",
     },
     seccion: {
-      maxWidth: "1200px",
-      margin: "0 auto",
-      padding: "56px 40px",
-    },
+  width: "100%",
+  padding: "56px 40px",
+},
     gridTres: {
       display: "grid",
       gridTemplateColumns: "repeat(auto-fit, minmax(260px, 1fr))",
