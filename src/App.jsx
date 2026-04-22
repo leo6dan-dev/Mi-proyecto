@@ -106,7 +106,7 @@ export default function App() {
     },
     seccion: {
   width: "100%",
-  padding: "56px 40px",
+  padding: "56px 80px",
 },
     gridTres: {
       display: "grid",
